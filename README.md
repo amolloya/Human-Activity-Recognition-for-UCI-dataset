@@ -1,6 +1,6 @@
 # Human Activity Recognition for UCI Dataset
 
-In this section, we use Human Activity Recognition (HAR) for classifying the daily activities performed by indivduals.
+In this project, we use Human Activity Recognition (HAR) for classifying the daily activities performed by indivduals.
 
 For HAR, Convolutional Neural Network has been proven to give real good results. We demonstrate this using Tensorflow in python on the UCI dataset. We use the convolutional neural net model inbuilt within tensorflow. </br> The code is available in the file: UCI_HAR.py
 
